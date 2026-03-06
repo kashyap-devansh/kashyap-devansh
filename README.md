@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=E0E0E0&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Devansh.;Computer+Science+Student.;Systems+Programmer.+Language+Designer.;I+build+from+scratch+to+understand+the+depth.;C+%2F+C%2B%2B+%2F+Low-level+everything.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=E0E0E0&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Devansh.;Computer+Science+Student.;Systems+Programmer.+Language+Designer.;I+build+from+scratch+to+understand+the+depth.;C+%2F+C%2B%2B+%2F+Low-level+everything.)](https://git.io/typing-svg)
 
 ![](https://img.shields.io/badge/CS-Year__1-121212?style=for-the-badge&labelColor=1e1e1e&color=e0e0e0)
 ![](https://img.shields.io/badge/C_%2F_C%2B%2B-Systems-121212?style=for-the-badge&labelColor=1e1e1e&color=e0e0e0)
