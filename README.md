@@ -41,11 +41,6 @@ but because that's the only way to truly understand them.</p>
 </div>
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kashyap-devansh/kashyap-devansh/output/github-stats.svg" height="150"/>
-  <img src="https://raw.githubusercontent.com/kashyap-devansh/kashyap-devansh/output/top-langs.svg" height="150"/>
-</div>
-
 <br>
 <img src="https://raw.githubusercontent.com/kashyap-devansh/kashyap-devansh/output/snake.svg" alt="Snake animation" />
 <br>
