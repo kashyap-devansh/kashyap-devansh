@@ -30,10 +30,10 @@
 
 ```cpp
 class Devansh {
-    string role     = "CS Student · Year 1";
-    string focus    = "Systems Programming & Language Design";
-    string approach = "Build from scratch. Understand everything.";
-    string stack[]  = { "C", "C++", "Low-level everything" };
+   string role     = "CS Student · Year 1";
+   string focus    = "Systems Programming & Language Design";
+   string approach = "Build from scratch. Understand everything.";
+   string stack[]  = { "C", "C++", "Low-level everything" };
 };
 ```
 
@@ -67,26 +67,22 @@ class Devansh {
 
 <br>
 
-<sub>The best ones so far — written from scratch, no shortcuts, no tutorials.</sub>
+<p>The best ones so far — written from scratch, no shortcuts, no tutorials.</p>
 
 <br>
 
 <div align="center">
 
-<table border="0" cellpadding="20">
+<table border="0" cellpadding="18">
 <tr>
 
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 
 [![Ark](https://github-readme-stats.vercel.app/api/pin/?username=kashyap-devansh&repo=Ark&theme=transparent&bg_color=0d0d0d&border_color=bb86fc&title_color=bb86fc&text_color=c0c0c0&icon_color=bb86fc)](https://github.com/kashyap-devansh/Ark)
 
-<br>
+<h4>A SQL-like database engine in C++</h4>
 
-**A SQL-like database engine — in C++**
-
-Hand-written tokenizer · Recursive descent parser<br>
-Typed tables · Full CRUD · File persistence<br>
-Zero dependencies. Zero shortcuts.
+Hand-written tokenizer · Recursive descent parser · Typed tables · Full CRUD · File persistence · Zero dependencies
 
 <br>
 
@@ -95,17 +91,13 @@ Zero dependencies. Zero shortcuts.
 
 </td>
 
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 
 [![Curio](https://github-readme-stats.vercel.app/api/pin/?username=kashyap-devansh&repo=Curio&theme=transparent&bg_color=0d0d0d&border_color=bb86fc&title_color=bb86fc&text_color=c0c0c0&icon_color=bb86fc)](https://github.com/kashyap-devansh/Curio)
 
-<br>
+<h4>A custom programming language in C</h4>
 
-**A custom programming language — in C**
-
-Own tokenizer · Symbol table · Control flow<br>
-Modular interpreter architecture<br>
-A full language. From nothing.
+Own tokenizer · Symbol table · Control flow · Modular interpreter architecture · A full language from nothing
 
 <br>
 
@@ -114,17 +106,13 @@ A full language. From nothing.
 
 </td>
 
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 
 [![Scrive](https://github-readme-stats.vercel.app/api/pin/?username=kashyap-devansh&repo=Scrive&theme=transparent&bg_color=0d0d0d&border_color=bb86fc&title_color=bb86fc&text_color=c0c0c0&icon_color=bb86fc)](https://github.com/kashyap-devansh/Scrive)
 
-<br>
+<h4>A Vim-like terminal text editor in C++</h4>
 
-**A Vim-like terminal text editor — in C++**
-
-Modal editing · Raw terminal I/O<br>
-Cursor navigation · Built from the ground up<br>
-Not a wrapper. A reimplementation.
+Modal editing · Raw terminal I/O · Cursor navigation · Built from the ground up · Not a wrapper — a reimplementation
 
 <br>
 
