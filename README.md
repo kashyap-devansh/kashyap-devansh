@@ -10,7 +10,7 @@
 
 <br>
 
-![](https://img.shields.io/badge/Year_1_CS-bb86fc?style=for-the-badge&labelColor=16213e)
+![](https://img.shields.io/badge/Year_2_CS-bb86fc?style=for-the-badge&labelColor=16213e)
 &nbsp;
 ![](https://img.shields.io/badge/C_%2F_C%2B%2B-7c7cad?style=for-the-badge&labelColor=16213e)
 &nbsp;
