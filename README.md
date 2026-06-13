@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=BB86FC&center=true&vCenter=true&width=680&lines=I+build+from+scratch+to+understand+the+depth.;Database+engines.+Interpreters.+Text+editors.;Year+1+CS+—+but+I+don't+wait+to+start.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=BB86FC&center=true&vCenter=true&width=680&lines=I+build+from+scratch+to+understand+the+depth.;Database+engines.+Interpreters.+Text+editors.;Year+2+CS+—+but+I+don't+wait+to+start.)](https://git.io/typing-svg)
 
 <br>
 
@@ -30,7 +30,7 @@
 
 ```cpp
 class Devansh {
-   string role     = "CS Student · Year 1";
+   string role     = "CS Student · Year 2";
    string focus    = "Systems Programming & Language Design";
    string approach = "Build from scratch. Understand everything.";
    string stack[]  = { "C", "C++", "Low-level everything" };
