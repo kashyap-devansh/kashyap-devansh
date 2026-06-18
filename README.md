@@ -137,7 +137,7 @@ Modal editing · Raw terminal I/O · Cursor navigation · Built from the ground 
 
 <br>
 
-### `> skills --list`
+### `> stack --show`
 
 <br>
 
@@ -147,6 +147,14 @@ Modal editing · Raw terminal I/O · Cursor navigation · Built from the ground 
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" title="C++"/>
 &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" height="42" title="Arch Linux"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="42" title="Neovim"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/ffffff" height="42" title="GitHub"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" title="HTML5"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" title="CSS3"/>
@@ -155,15 +163,7 @@ Modal editing · Raw terminal I/O · Cursor navigation · Built from the ground 
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" title="React (learning)"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/ffffff" height="42" title="GitHub"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="42" title="Neovim"/>
-&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" title="VSCode"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/archlinux/1793D1" height="42" title="Arch Linux"/>
 
 </div>
 
