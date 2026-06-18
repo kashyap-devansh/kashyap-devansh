@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=BB86FC&center=true&vCenter=true&width=680&lines=I+build+from+scratch+to+understand+the+depth.;Database+engines.+Interpreters.+Text+editors.;Year+2+CS+—+but+I+don't+wait+to+start.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=BB86FC&center=true&vCenter=true&width=680&lines=I+build+from+scratch+to+understand+the+depth.;Database+engines.+Interpreters.+Text+editors.;Year+2+CS+%E2%80%94+but+I+don%27t+wait+to+start.)](https://git.io/typing-svg)
 
 <br>
 
@@ -49,13 +49,18 @@ class Devansh {
 
 <br>
 
+<div align="center">
+
 | | | |
 |:---:|:---|:---|
 | 📖 | **studying** | Data Structures & Algorithms |
 | 🔧 | **building** | System-style tools in C / C++ |
-| 🧠 | **learning** | How interpreters & compilers work |
+| 🧠 | **learning** | Interpreters, compilers & React |
+| 🖥️ | **environment** | Neovim · Omarchy · Arch Linux |
 | 🎮 | **offline** | Gaming *(non-negotiable)* |
 | 📺 | **buffering** | Anime *(between segfaults)* |
+
+</div>
 
 <br>
 
@@ -67,11 +72,11 @@ class Devansh {
 
 <br>
 
+<div align="center">
+
 <p>The best ones so far — written from scratch, no shortcuts, no tutorials.</p>
 
 <br>
-
-<div align="center">
 
 <table border="0" cellpadding="18">
 <tr>
@@ -144,13 +149,21 @@ Modal editing · Raw terminal I/O · Cursor navigation · Built from the ground 
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" title="HTML5"/>
 &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" title="CSS3"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" title="JavaScript"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" title="React (learning)"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" title="GitHub"/>
+<img src="https://cdn.simpleicons.org/github/ffffff" height="42" title="GitHub"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="42" title="Neovim"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" title="VSCode"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" title="Linux"/>
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" height="42" title="Arch Linux"/>
 
 </div>
 
