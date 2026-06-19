@@ -146,8 +146,8 @@ Modal editing · Raw terminal I/O · Cursor navigation · Built from the ground 
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="56" title="C"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" height="65" title="C"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="56" title="C++"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="56" title="Arch Linux"/>
