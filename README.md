@@ -33,7 +33,7 @@ class Devansh {
    string role     = "CS Student · Year 2";
    string focus    = "Systems Programming & Language Design";
    string approach = "Build from scratch. Understand everything.";
-   string stack[]  = { "C", "C++", "Low-level everything" };
+   string stack[]  = { "C", "C++", "Linux", "Build things from scratch" };
 };
 ```
 
@@ -136,34 +136,39 @@ Modal editing · Raw terminal I/O · Cursor navigation · Built from the ground 
 ---
 
 <br>
-
 ### `> stack --show`
 
 <br>
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" title="C"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" title="C++"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/archlinux/1793D1" height="42" title="Arch Linux"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="42" title="Neovim"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/ffffff" height="42" title="GitHub"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" title="HTML5"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" title="CSS3"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" title="JavaScript"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" title="React (learning)"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" title="VSCode"/>
+#### Systems
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="56" title="C"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="56" title="C++"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" height="56" title="Arch Linux"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="56" title="Neovim"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" title="Git"/>
+
+<br><br>
+
+#### Web · Secondary
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="52" title="HTML5"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="52" title="CSS3"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" title="JavaScript"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" title="React"/>
 
 </div>
 
