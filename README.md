@@ -158,7 +158,7 @@ Modal editing · Raw terminal I/O · Cursor navigation · Built from the ground 
 
 <br><br>
 
-#### Web · Secondary
+#### Web
 
 <br>
 
